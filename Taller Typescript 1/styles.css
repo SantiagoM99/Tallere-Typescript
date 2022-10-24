@@ -1,0 +1,18 @@
+.header{
+    background-color: #00A2B4;
+    height: 80px;
+
+}
+.header img{
+    width: 60px;
+    height: 60px;
+    margin: 10px;
+}
+.table{
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin: 25px 10px;
+}
+.nombreserie{
+    color:rgb(0, 153, 255)
+}
